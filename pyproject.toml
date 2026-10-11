@@ -3,3 +3,6 @@ name = "hello-python"
 version = "0.1.0"
 description = "A simple Python hello-world project."
 requires-python = ">=3.10"
+dependencies = [
+    "requests>=2.34.2",
+]
